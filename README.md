@@ -15,6 +15,8 @@ Designed for use with ANVL, but works with any Wayland compositor implementing t
 - make
 - pkgconfig
 - wayland
+- pixman
+- fcft
 
 ## Build
 
